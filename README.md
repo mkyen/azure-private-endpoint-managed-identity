@@ -11,7 +11,7 @@
 
 ## 📐 Architecture
 
-![Private Link Main Concept](architecture-private-link.png)
+![Private Link Main Concept](private_link.png)
 
 **Traffic flow:**
 
